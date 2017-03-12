@@ -1,0 +1,8 @@
+这是从“自强学堂”学习的第一个django项目。
+
+if you want to run this project, you had better to use envirenment as listed:
+
+python: 2.7.12
+django: 1.8.3
+
+this project alse uses "DjangoUeditor".
